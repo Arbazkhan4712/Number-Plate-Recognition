@@ -27,3 +27,7 @@ Run the following:
     python test.py
     
  
+## License & Copyright
+© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
+
+Licensed under the [MIT License](License)
